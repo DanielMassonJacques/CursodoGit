@@ -1,2 +1,2 @@
 # CursodoGit
-É um repositório teste para aprender a fazer essa porra.
+É um repositório teste
